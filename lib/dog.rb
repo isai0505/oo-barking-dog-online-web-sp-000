@@ -10,4 +10,5 @@ class Dog
     @this_dogs_name
     puts Dog.bark
   end
+  end
 end
