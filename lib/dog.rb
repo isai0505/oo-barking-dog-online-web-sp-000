@@ -9,6 +9,4 @@ class Dog
   def name
     @this_dogs_name
   end
-  puts Dog.bark
-end
 end
