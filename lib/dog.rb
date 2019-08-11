@@ -11,4 +11,4 @@ class Dog
   end
 end
 
-puts.bark
+puts bark
